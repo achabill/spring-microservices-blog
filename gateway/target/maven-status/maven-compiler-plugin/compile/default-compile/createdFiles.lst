@@ -1,0 +1,4 @@
+org/springmicrservicesblog/gateway/security/JwtConfig.class
+org/springmicrservicesblog/gateway/GatewayApplication.class
+org/springmicrservicesblog/gateway/security/AuthTokenConfig.class
+org/springmicrservicesblog/gateway/filters/JwtTokenAuthenticationFilter.class

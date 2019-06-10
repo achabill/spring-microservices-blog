@@ -1,0 +1,10 @@
+server:
+  port: 4000
+
+zuul:
+  routes:
+    auth:
+      path: /auth/**
+      url: http://localhost:6000
+      stripPrefix: false
+      sensitiveHeaders:

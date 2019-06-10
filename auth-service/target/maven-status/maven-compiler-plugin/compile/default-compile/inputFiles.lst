@@ -1,0 +1,7 @@
+/Users/admin/Documents/version_control/spring-microservices-blog/auth-service/src/main/java/org/springmicroservicesblog/auth/AuthApplication.java
+/Users/admin/Documents/version_control/spring-microservices-blog/auth-service/src/main/java/org/springmicroservicesblog/auth/security/JwtConfig.java
+/Users/admin/Documents/version_control/spring-microservices-blog/auth-service/src/main/java/org/springmicroservicesblog/auth/domain/AppUser.java
+/Users/admin/Documents/version_control/spring-microservices-blog/auth-service/src/main/java/org/springmicroservicesblog/auth/security/SecurityCredentialsConfig.java
+/Users/admin/Documents/version_control/spring-microservices-blog/auth-service/src/main/java/org/springmicroservicesblog/auth/services/UserDetailsServiceImpl.java
+/Users/admin/Documents/version_control/spring-microservices-blog/auth-service/src/main/java/org/springmicroservicesblog/auth/security/UserCredentials.java
+/Users/admin/Documents/version_control/spring-microservices-blog/auth-service/src/main/java/org/springmicroservicesblog/auth/security/JwtUsernameAndPasswordAuthenticationFilter.java

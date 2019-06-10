@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: gateway
+  cloud:
+    config:
+      uri: http://localhost:8888
+      password: ${CONFIG_SERVICE_PASSWORD}
+      username: user
+
+security:
+  jwt:
+    secret: secret

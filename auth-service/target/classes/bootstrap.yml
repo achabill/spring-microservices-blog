@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: auth
+  cloud:
+    config:
+      uri: http://localhost:8888
+      password: ${CONFIG_SERVICE_PASSWORD}
+      username: user
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/springmicroservicesblog
+
+security:
+  jwt:
+    secret: secret

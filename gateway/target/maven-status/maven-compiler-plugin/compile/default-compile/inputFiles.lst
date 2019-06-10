@@ -1,0 +1,4 @@
+/Users/admin/Documents/version_control/spring-microservices-blog/gateway/src/main/java/org/springmicrservicesblog/gateway/GatewayApplication.java
+/Users/admin/Documents/version_control/spring-microservices-blog/gateway/src/main/java/org/springmicrservicesblog/gateway/security/AuthTokenConfig.java
+/Users/admin/Documents/version_control/spring-microservices-blog/gateway/src/main/java/org/springmicrservicesblog/gateway/filters/JwtTokenAuthenticationFilter.java
+/Users/admin/Documents/version_control/spring-microservices-blog/gateway/src/main/java/org/springmicrservicesblog/gateway/security/JwtConfig.java

@@ -1,0 +1,7 @@
+org/springmicroservicesblog/auth/security/UserCredentials.class
+org/springmicroservicesblog/auth/security/SecurityCredentialsConfig.class
+org/springmicroservicesblog/auth/security/JwtUsernameAndPasswordAuthenticationFilter.class
+org/springmicroservicesblog/auth/security/JwtConfig.class
+org/springmicroservicesblog/auth/domain/AppUser.class
+org/springmicroservicesblog/auth/services/UserDetailsServiceImpl.class
+org/springmicroservicesblog/auth/AuthApplication.class
